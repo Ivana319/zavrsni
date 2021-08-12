@@ -1,0 +1,26 @@
+{
+  "name": "zavrsni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "8.0.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivana319/zavrsni.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivana319/zavrsni/issues"
+  },
+  "homepage": "https://github.com/Ivana319/zavrsni#readme"
+}
